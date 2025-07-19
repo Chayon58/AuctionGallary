@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica  Camera",
+      "description": "A classic 1960s film camera in excellent condition.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/C5DKbRcw/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "195 SG Electric Guitar",
+      "description": "High-performance gaming laptop with RTX 3070 and 16GB RAM.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 23,
+      "image": "https://i.ibb.co.com/pvyxVQNP/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Apple Macintosh 12K",
+      "description": "19th-century wall clock with original pendulum and chimes.",
+      "currentBidPrice": 2850,
+      "timeLeft": "4 Days left",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/ccHZ23pN/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 166",
+      "description": "Noise-cancelling Bluetooth headphones with 30-hour battery life.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/kYM1pVR/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "'The Gatsby'by Scottt",
+      "description": "Stratocaster-style electric guitar with amp and accessories.",
+      "currentBidPrice": 2850,
+      "timeLeft": "3 Days left",
+      "bidsCount": 19,
+      "image": "https://i.ibb.co.com/DgvdGnzh/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": " Modern Eames Loung",
+      "description": "Rare collector's edition LEGO Star Wars Millennium Falcon set.",
+      "currentBidPrice": 2850,
+      "timeLeft": "5 Days left",
+      "bidsCount": 32,
+      "image": "https://i.ibb.co.com/j9W1L7Kj/Bid5-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen",
+      "description": "Rare collector's edition LEGO Star Wars Millennium Falcon set.",
+      "currentBidPrice": 2850,
+      "timeLeft": "6 Days left",
+      "bidsCount": 32,
+      "image": "https://i.ibb.co.com/PvJKjVfq/Bid7-min.png"
+    }
+  ]
+  
